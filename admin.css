@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 50%;
+    margin: auto;
+}
+
+input{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+#register{
+    margin-bottom: 50px;
+    
+}
+
+ button{
+    width: 80%;
+    /* margin: auto; */
+    height: 30px;
+    margin-left: 70px;
+    background-color: blue;
+    border: none;
+    color: white;
+}
+
+/* .table{
+   width: 100px;
+   border: 1px solid black;
+   border-collapse: collapse;
+} */
+
+table, th, td {
+    border:1px solid black;
+  }
+
+/* .desc{
+    width: 100px;
+}
+
+.des{
+    width: 50px;
+}
+
+.dest{
+    width: 800px;
+} */

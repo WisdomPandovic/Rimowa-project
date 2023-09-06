@@ -1,0 +1,189 @@
+body{
+    margin:0;
+    padding:0;
+  }
+  
+  .flex{
+    display:flex
+  }
+  
+  .wrap{
+    flex-wrap:wrap;
+  }
+  
+  .column{
+    flex-direction:column
+  }
+  
+  .center{
+    justify-content:center;
+    align-items:center;
+  }
+  
+  .product{
+    padding:10px;
+    width:200px;
+  }
+  
+  .product-title{
+      width: 150px;
+      height: 20px;
+      overflow: hidden;
+      text-align: center;
+      overflow-wrap: break-word;
+      white-space: nowrap;
+        text-overflow: ellipsis;
+  }
+  
+  .fig{
+    height:200px;
+  }
+  
+  figure img{
+    width:100%;
+  }
+  
+  .button{
+    padding:10px;
+    border:0;
+    outline:0;
+    background-color:purple;
+    color:#fff;
+    width:100px;
+    cursor:pointer;
+  }
+  
+  .price{
+    font-weight:700;
+    font-family:Tahoma
+  }
+  
+  
+  .space-btw{
+    justify-content:space-between
+  }
+  
+  .text-title{
+    font-weight:900;
+    font-size:17px;
+    font-family:Tahoma;
+  }
+  
+  .vh100{
+    height:100vh;
+  }
+  
+  .w50{
+    width:50%;
+    height:400px;
+    margin:0 20px;
+    
+  }
+  
+  .w100{
+    width:100%;
+  }
+  
+  .img-container{
+    width:250px;
+    height: 150px;
+  }
+  
+  .img-container img{
+    width:100%;
+  }
+
+  body{
+    margin:0;
+    padding:0;
+  }
+  
+  .flex{
+    display:flex
+  }
+  
+  .wrap{
+    flex-wrap:wrap;
+  }
+  
+  .column{
+    flex-direction:column
+  }
+  
+  .center{
+    justify-content:center;
+    align-items:center;
+  }
+  
+  .product{
+    padding:10px;
+    width:200px;
+  }
+  
+  .product-title{
+      width: 150px;
+      height: 20px;
+      overflow: hidden;
+      text-align: center;
+      overflow-wrap: break-word;
+      white-space: nowrap;
+        text-overflow: ellipsis;
+  }
+  
+  .fig{
+    height:200px;
+  }
+  
+  figure img{
+    width:100%;
+  }
+  
+  .button{
+    padding:10px;
+    border:0;
+    outline:0;
+    background-color:purple;
+    color:#fff;
+    width:100px;
+    cursor:pointer;
+  }
+  
+  .price{
+    font-weight:700;
+    font-family:Tahoma
+  }
+  
+  
+  .space-btw{
+    justify-content:space-between
+  }
+  
+  .text-title{
+    font-weight:900;
+    font-size:17px;
+    font-family:Tahoma;
+  }
+  
+  .vh100{
+    height:100vh;
+  }
+  
+  .w50{
+    width:50%;
+    height:400px;
+    margin:0 20px;
+    
+  }
+  
+  .w100{
+    width:100%;
+  }
+  
+  .img-container{
+    width:250px;
+    height: 150px;
+  }
+  
+  .img-container img{
+    width:100%;
+  }

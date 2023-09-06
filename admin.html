@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Admin</title>
+  <link rel="stylesheet" href="createacct.css">
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <form method="POST" action="http://159.65.21.42:9000/create/product"  enctype="multipart/form-data"> 
+    <div><input type="" placeholder="Product Name" name="name"/></div>
+    <div><input type="" placeholder="Product Category" name="category"/></div>
+    <div><input type="" placeholder="Price" name="price"/></div>
+    <div><input type="" placeholder="Quantity" name="quantity"/></div>
+    <div><input type="file" name="image"/></div>
+    <div><input type="" placeholder="Description" name="description"/></div>
+    <div id="msg"></div>
+    <button id="register">Register</button>
+  </form>
+
+
+
+  <div>
+
+    <table class="productx">
+      <tr >
+        <th class="table">Name</th>
+        <th  class="desc">Description</th>
+        <th class="des">Price</th>
+        <th class="des">Image</th>
+        <th class="des">Quantity</th>
+        <th class="dest">Update</th>
+      </tr>
+      
+    </table>
+  </div>
+
+  <div ></div>
+ 
+    
+<script src="./jquery-3.6.1.min.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
