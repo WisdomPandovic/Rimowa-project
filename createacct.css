@@ -369,12 +369,7 @@ body{
      .front_p_container13-bk{
       background-color: #0d0900;
      }
-     
-
-     /* .con13-t-img img{ 
-        padding-left: 600px;
-      } */
-    
+   
      .con13{
         display: grid;
         grid-template-columns: repeat(4, 1fr);
