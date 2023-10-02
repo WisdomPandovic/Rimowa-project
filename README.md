@@ -2,12 +2,12 @@
 This project is a clone of the Rimowa website implemented using HTML and AJAX.
 
 Table of Contents
-Project Description
-Usage
-Features
-Technologies Used
-Contributing
-License
+1. Project Description
+2. Usage
+3. Features
+4. Technologies Used
+5. Contributing
+6. License
 
 Project Description
 This project is a clone of the Rimowa website, a premium luggage brand. It includes additional functionalities such as product management in the admin.html page where you can create, view, delete, and edit products. The get product feature allows you to view all products. In the users.html page, you can view all users and their details. Additionally, the project supports user authentication with sign-in and sign-up capabilities.
@@ -23,12 +23,12 @@ Usage
 8. Utilize the sign-in and sign-up features for user authentication.
 
 Features
-HTML structure resembling the Rimowa website.
-Dynamic content loading using AJAX.
-Product management (create, view details, edit, delete) in admin.html.
-View all products with the get product feature.
-View all users and their details in users.html.
-User authentication with sign-in and sign-up functionalities.
+. HTML structure resembling the Rimowa website.
+. Dynamic content loading using AJAX.
+. Product management (create, view details, edit, delete) in admin.html.
+. View all products with the get product feature.
+. View all users and their details in users.html.
+. User authentication with sign-in and sign-up functionalities.
 
 Technologies Used
 HTML
