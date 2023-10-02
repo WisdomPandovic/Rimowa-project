@@ -13,14 +13,14 @@ Project Description
 This project is a clone of the Rimowa website, a premium luggage brand. It includes additional functionalities such as product management in the admin.html page where you can create, view, delete, and edit products. The get product feature allows you to view all products. In the users.html page, you can view all users and their details. Additionally, the project supports user authentication with sign-in and sign-up capabilities.
 
 Usage
-Open the index.html file in a web browser.
-Navigate to the "Accessories" section then to the iphone to view available products.
-Click on a product to view more details on the "view product" page.
-On the "View product" page, you can add the product to your cart. 
-Use the admin.html page to manage products, including creating, viewing details, editing, and deleting.
-Use the get product feature to view all available products.
-Access users.html to view user details.
-Utilize the sign-in and sign-up features for user authentication.
+1. Open the index.html file in a web browser.
+2. Navigate to the "Accessories" section then to the iphone to view available products.
+3. Click on a product to view more details on the "view product" page.
+4. On the "View product" page, you can add the product to your cart. 
+5. Use the admin.html page to manage products, including creating, viewing details, editing, and deleting.
+6. Use the get product feature to view all available products.
+7. Access users.html to view user details.
+8. Utilize the sign-in and sign-up features for user authentication.
 
 Features
 HTML structure resembling the Rimowa website.
