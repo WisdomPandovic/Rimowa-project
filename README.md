@@ -23,26 +23,26 @@ Usage
 8. Utilize the sign-in and sign-up features for user authentication.
 
 Features
-. HTML structure resembling the Rimowa website.
-. Dynamic content loading using AJAX.
-. Product management (create, view details, edit, delete) in admin.html.
-. View all products with the get product feature.
-. View all users and their details in users.html.
-. User authentication with sign-in and sign-up functionalities.
+1. HTML structure resembling the Rimowa website.
+2  Dynamic content loading using AJAX.
+3. Product management (create, view details, edit, delete) in admin.html.
+4. View all products with the get product feature.
+5. View all users and their details in users.html.
+6. User authentication with sign-in and sign-up functionalities.
 
 Technologies Used
-HTML
-AJAX
-JavaScript
+1. HTML
+2. AJAX
+3. JavaScript
 
 Contributing
 If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch.
-Make your changes and commit them with clear messages.
-Push the changes to your fork.
-Create a pull request.
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them with clear messages.
+4. Push the changes to your fork.
+5. Create a pull request.
 
 License
 This project is licensed under the MIT License.
