@@ -1489,7 +1489,12 @@ position: absolute;
     .front_p_con7{
         width: 95%;
         margin: auto;
-        /* padding-top: 50px; */
+        margin-top: 650px ;
+    }
+
+    .front_p_con6{
+        width: 95%;
+        margin: auto;
     }
        
     .con6_products{
